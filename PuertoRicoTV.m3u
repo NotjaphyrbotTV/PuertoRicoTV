@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Noticias y Entretenimiento",WKAQ-DT1 (Telemundo PR)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="Noticias y Entretenimiento",WKAQ-DT2 (Punto 2)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WAPADT1.pr" tvg-logo="https://i.imgur.com/kqq7tD9.png" group-title="Noticias y Entretenimiento",WAPA-DT1 (WAPA-TV)
+https://live.field59.com/wapa/wapa1/playlist.m3u8
+#EXTINF:-1 tvg-id="WAPADT2.pr" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Deportes",WAPA-DT2 (WAPA Deportes)
+https://live.field59.com/wapa/wapa2/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleOnce.pr" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="Noticias y Entretenimiento",TeleOnce (1080p)
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
